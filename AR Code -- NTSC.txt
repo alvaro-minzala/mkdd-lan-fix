@@ -1,0 +1,11 @@
+0448C388 00000002
+
+Apply to NTSC Mario Kart: Double Dash on Dolphin Emulator
+Properties > AR Codes > Add New Code > Name it "30fps Patch" and as code put the code shown above.
+
+Apply to NTSC Mario Kart: Double Dash on a real Nintendo GameCube
+You will need an "Action Replay" disc, and to add the code just look up for a tutorial.
+
+This will fix Netplay and XLink Kai.
+
+IMPORTANT NOTE: DON'T APPLY IT TO A PAL COPY OF Mario Kart: Double Dash. DOING SO MAY CORRUPT YOUR SAVE DATA, YOUR ROM FILE/DISC OR EVEN BRICK YOUR GAMECUBE OR EMULATOR, MAKING YOU NEED TO GET ANOTHER GAMECUBE OR SET AGAIN THE EMULATOR.
